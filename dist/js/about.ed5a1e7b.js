@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(a,t,e){"use strict";e.r(t);var n=e("7a23"),r={class:"about"},u=Object(n["f"])("p",null," This is a Todo List app ",-1),c=Object(n["f"])("p",null," Created by: Itish Agarwal ",-1),o=Object(n["f"])("p",null," Third year undergraduate at IIT Kharagpur ",-1);function s(a,t){return Object(n["o"])(),Object(n["d"])("div",r,[u,c,o])}const d={};d.render=s;t["default"]=d}}]);
+//# sourceMappingURL=about.ed5a1e7b.js.map
